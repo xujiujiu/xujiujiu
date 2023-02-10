@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @xujiujiu
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Web
 
 | <a href="https://github.com/xujiujiu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xujiujiu&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- |
