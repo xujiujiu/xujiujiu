@@ -12,11 +12,11 @@
 
   <div align="center">
     <div>
-      <img align="center"
+      <img
         src="https://github-readme-stats.vercel.app/api?username=xujiujiu&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
         alt="xujiujiu's github stats" />
 
-      <img align="center"
+      <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=xujiujiu&layout=compact&hide_border=true" />
 
     </div>
