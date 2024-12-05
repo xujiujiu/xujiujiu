@@ -8,7 +8,7 @@
   </p>
 
   <div>
-    <h3>Things I use</h3>
+    <h2>Things I use</h2>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f27b10?style=flat-square&logo=javascript&logoColor=white" />
